@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-redirect-in-plugin-demo",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.12.3",
+    "vue": "latest"
+  }
+}
